@@ -1,13 +1,14 @@
 # [SDF01] Challenge: My First Repo 🚀
 
-# 👋 Hi, I'm [Your Name]
+# 👋 Hi, I'm [Ayabulela Slovo KOndile]
 
 🌱 Beginner Software Developer | 🚀 Excited to Learn & Build
-
+ One day i will become a pro in coding
 ---
 
 ## 🎯 About Me
 
+I love leaning new things and was employed for 9 years in Banking and now am self employed 
 - 💡 I'm currently learning **GitHub and version control** before diving into coding.
 - 🎓 Soon, I'll be exploring **HTML, CSS, and JavaScript**!
 - 🤖 I love problem-solving and working on creative projects.
@@ -61,6 +62,7 @@ Here are some of my milestone projects (to be updated as I progress!):
 - 🚀 Get comfortable using Git and GitHub
 - 🎨 Learn HTML, CSS, and JavaScript
 - 💡 Build real-world projects and collaborate with others
+Passing all my Modules 
 
 ---
 
@@ -68,7 +70,7 @@ Here are some of my milestone projects (to be updated as I progress!):
 
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/yourusername)  
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)  
-📧 Email: [youremail@example.com](mailto:youremail@example.com)
+📧 Email: [ayabulelask!@gmail.com](mailto:youremail@example.com)
 
 ---
 
